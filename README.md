@@ -7,7 +7,6 @@ Certification preparation
 This course is specifically designed to help you prepare for the following certification:
 1. **CKAD**: Certified Kubernetes Application Developer
 1. **CKAD**: Certified Kubernetes Application Developer
-Issued by The Linux Foundation
 
 **What you'll learn**
 1. Kubernetes Certification
